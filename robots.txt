@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonongiri.personagenerator.net/sitemap.xml
